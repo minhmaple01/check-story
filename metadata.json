@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: Senior Story Analyst AI",
+  "description": "A professional tool for analyzing Japanese storytelling transcripts for senior audiences, evaluating language, emotion, and cultural suitability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
